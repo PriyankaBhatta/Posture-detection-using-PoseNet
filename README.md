@@ -26,6 +26,6 @@ This project utilizes the following open-source libraries:
 - p5.js
 - ml5.js
 - PoseNet
-- 
+  
 Special thanks to the creators and contributors of these libraries for their valuable work.
 
