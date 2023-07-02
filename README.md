@@ -20,9 +20,6 @@ The posture detection algorithm in this project utilizes a pre-trained machine l
 - Stand in front of the webcam with your whole body visible.
 - The application will start detecting your posture and display the estimated keypoints and skeleton.
 
-**License**
-This project is licensed under the MIT License.
-
 **Acknowledgments**
 This project utilizes the following open-source libraries:
 
